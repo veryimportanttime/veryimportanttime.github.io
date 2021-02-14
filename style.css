@@ -132,13 +132,13 @@ a.ddott {
 
 }
 a.ddott:hover {
-    text-shadow: 0 50px 0 #FF0000, 1px 51px 20px #FFF;
+    text-shadow: 0 50px 0 green, 1px 51px 20px #FFF;
     margin-top: -50px;
     height: 100px;
     background: #222;
 }
 
-* {box-sizing: border-box;}
+ {box-sizing: border-box;}
 .vignette {
   width: 400px;
   margin: 50px auto 0;
