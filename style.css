@@ -132,7 +132,7 @@ a.ddott {
 
 }
 a.ddott:hover {
-    text-shadow: 0 50px 0 #FFF, 1px 51px 20px #FFF;
+    text-shadow: 0 50px 0 #FF0000, 1px 51px 20px #FFF;
     margin-top: -50px;
     height: 100px;
     background: #222;
